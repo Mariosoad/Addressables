@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 468a46d0ae32c3544b7d98094e6448a9, type: 3}
+  m_Name: AddressableAssetSettings
+  m_EditorClassIdentifier: 
+  m_DefaultGroup: 416fc0c3b4b106d4984dc7cc9d03a45e
+  m_OptimizeCatalogSize: 0
+  m_BuildRemoteCatalog: 1
+  m_BundleLocalCatalog: 0
+  m_DisableCatalogUpdateOnStart: 0
+  m_IgnoreUnsupportedFilesInBuild: 0
+  m_UniqueBundleIds: 0
+  m_maxConcurrentWebRequests: 500
+  m_ContiguousBundles: 0
+  m_RemoteCatalogBuildPath:
+    m_Id: c412c6d3af1bef94abf62cb70968953d
+  m_RemoteCatalogLoadPath:
+    m_Id: 4d2124774872a7145bcad4d11b1480a1
+  m_overridePlayerVersion: 
+  m_GroupAssets:
+  - {fileID: 11400000, guid: 24886d6656d77024bb6f5839261e9241, type: 2}
+  m_BuildSettings:
+    m_CompileScriptsInVirtualMode: 0
+    m_CleanupStreamingAssetsAfterBuilds: 1
+    m_LogResourceManagerExceptions: 1
+    m_BundleBuildPath: Temp/com.unity.addressables/AssetBundles
+  m_ProfileSettings:
+    m_Profiles:
+    - m_InheritedParent: 
+      m_Id: 9f87b3550e125f448972ae2218c853b0
+      m_ProfileName: Default
+      m_Values:
+      - m_Id: 9d8abd76bf9dacd4aa592eeae21f5b49
+        m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
+      - m_Id: 9cbba6b4b755b7843b0a66924d583ac2
+        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+      - m_Id: 97243f957882b074fbe10d85380f269e
+        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+      - m_Id: c412c6d3af1bef94abf62cb70968953d
+        m_Value: ServerData/[BuildTarget]
+      - m_Id: 4d2124774872a7145bcad4d11b1480a1
+        m_Value: http://localhost/[BuildTarget]
+    - m_InheritedParent: 
+      m_Id: dbeb1fe2419192f44ad92bade62c7b64
+      m_ProfileName: Remote
+      m_Values:
+      - m_Id: 9d8abd76bf9dacd4aa592eeae21f5b49
+        m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
+      - m_Id: 9cbba6b4b755b7843b0a66924d583ac2
+        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+      - m_Id: 97243f957882b074fbe10d85380f269e
+        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+      - m_Id: c412c6d3af1bef94abf62cb70968953d
+        m_Value: ServerData/[BuildTarget]
+      - m_Id: 4d2124774872a7145bcad4d11b1480a1
+        m_Value: https://racrucijuegos.s3.amazonaws.com/CruciFiles/pruebaModel/[BuildTarget]
+    m_ProfileEntryNames:
+    - m_Id: 9d8abd76bf9dacd4aa592eeae21f5b49
+      m_Name: BuildTarget
+      m_InlineUsage: 0
+    - m_Id: 9cbba6b4b755b7843b0a66924d583ac2
+      m_Name: LocalBuildPath
+      m_InlineUsage: 0
+    - m_Id: 97243f957882b074fbe10d85380f269e
+      m_Name: LocalLoadPath
+      m_InlineUsage: 0
+    - m_Id: c412c6d3af1bef94abf62cb70968953d
+      m_Name: RemoteBuildPath
+      m_InlineUsage: 0
+    - m_Id: 4d2124774872a7145bcad4d11b1480a1
+      m_Name: RemoteLoadPath
+      m_InlineUsage: 0
+    m_ProfileVersion: 1
+  m_LabelTable:
+    m_LabelNames:
+    - default
+    - remote
+  m_SchemaTemplates: []
+  m_GroupTemplateObjects:
+  - {fileID: 11400000, guid: 59d582e584fe56b42a3a92b08d413d35, type: 2}
+  m_InitializationObjects: []
+  m_CertificateHandlerType:
+    m_AssemblyName: 
+    m_ClassName: 
+  m_ActivePlayerDataBuilderIndex: 3
+  m_DataBuilders:
+  - {fileID: 11400000, guid: 2dcdea256367d4d4e984a6c9e6df1ec7, type: 2}
+  - {fileID: 11400000, guid: a1d1c9820672aff42b0c2e97c8837bcf, type: 2}
+  - {fileID: 11400000, guid: caecc5cacb233774295713c0ac655b09, type: 2}
+  - {fileID: 11400000, guid: 9cc81ddbb5a4c88469440af95edcd889, type: 2}
+  m_ActiveProfileId: dbeb1fe2419192f44ad92bade62c7b64
+  m_HostingServicesManager:
+    m_HostingServiceInfos: []
+    m_Settings: {fileID: 11400000}
+    m_NextInstanceId: 0
+    m_RegisteredServiceTypeRefs: []
