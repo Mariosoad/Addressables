@@ -9,14 +9,13 @@ using UnityEngine.XR.ARFoundation.Samples.Inventory;
 using UnityEngine.XR.ARSubsystems;
 using UnityEngine.AddressableAssets;
 
-public class SpawnManager : MonoBehaviour
+public class spawnered : MonoBehaviour
 {
-    
-    public static Inventory instance;    
     [SerializeField] ARRaycastManager m_RaycastManager;
     [SerializeField] GameObject sceneContainer;
-    [SerializeField] GameObject objectToSpawn;
+    [SerializeField] AssetReferenceT<GameObject> objectToSpawn;
     [SerializeField] GraphicRaycaster graphicRaycaster;
+    [SerializeField] Camera arCam;
 
     private GameObject instantiatedObjectByAddessable;
 
@@ -24,7 +23,7 @@ public class SpawnManager : MonoBehaviour
 
     private static List<ARRaycastHit> s_Hits = new List<ARRaycastHit>();
     private GameObject spawnedObject;
-    [SerializeField] Camera arCam;
+//    private Camera arCam;
     private Touch touch;
 
 
@@ -81,25 +80,32 @@ public class SpawnManager : MonoBehaviour
             }
 
         }
+
     }
 
     private void SpawnPrefab(Vector3 spawnPosition, Quaternion spawnRotation)
     {
-        // if (objectToSpawn == null)
-        // {
-        //     EventsManager.instance.OnShowPopUp("Seleccione un modelo del inventario");
-        //     return;
-        // }
+        if (objectToSpawn == null)
+        {
+             EventsManager.instance.OnShowPopUp("Seleccione un modelo del inventario");
+             return;
+        }
 
         StartCoroutine(Spawn(spawnPosition, spawnRotation));
     }
 
     IEnumerator Spawn(Vector3 spawnPosition, Quaternion spawnRotation)
     {
-        var ad = AddressableInventory.instance
-            .GetAddressableModel()
-            .InstantiateAsync(spawnPosition, spawnRotation, sceneContainer.transform);
+/*       
+       var ad = AddressableInventory.instance
+               .GetAddressableModel()
+               .InstantiateAsync(spawnPosition, spawnRotation, sceneContainer.transform);
+*/        
+
+        var ad = objectToSpawn.InstantiateAsync(spawnPosition, spawnRotation, sceneContainer.transform);
+
         instantiatedObjectByAddessable = ad.Result as GameObject;
+        
         EventsManager.instance.OnSpawnObject(instantiatedObjectByAddessable);
         EventsManager.instance.OnchangeState(EStates.RotatingAndScalingModel);
         yield break;

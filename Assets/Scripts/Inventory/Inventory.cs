@@ -7,7 +7,7 @@ using UnityEngine.XR.ARFoundation.Samples.Inventory;
 public class Inventory : MonoBehaviour
 {
     public static Inventory instance;    
-    [SerializeField] List<GameObject> models;
+    [SerializeField] List<AssetReference> models;
     bool panelActive;
     [SerializeField] GameObject inventoryPanel;
 

@@ -18,11 +18,353 @@ MonoBehaviour:
   m_GUID: 416fc0c3b4b106d4984dc7cc9d03a45e
   m_SerializeEntries:
   - m_GUID: ff1f7590700643d41bcf8e3e0de4f8f1
-    m_Address: https://racrucijuegos.s3.amazonaws.com/CruciFiles/pruebaModel/4001-Tubo+de+Gateo.FBX
+    m_Address: 4001-Tubo+de+Gateo
     m_ReadOnly: 0
     m_SerializedLabels: []
     m_MainAsset: {fileID: 4678321711627456580, guid: ff1f7590700643d41bcf8e3e0de4f8f1, type: 3}
     m_TargetAsset: {fileID: 4678321711627456580, guid: ff1f7590700643d41bcf8e3e0de4f8f1, type: 3}
+  - m_GUID: 886edb494f9020444ba3b2c2c421f1d1
+    m_Address: 4020-+Sube+y+Baja+Simple
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 6394067612225475158, guid: 886edb494f9020444ba3b2c2c421f1d1, type: 3}
+    m_TargetAsset: {fileID: 6394067612225475158, guid: 886edb494f9020444ba3b2c2c421f1d1, type: 3}
+  - m_GUID: 136b4ddc045d55b4d9f45ac1f8c7b84c
+    m_Address: 4045-+Mini+Rotador
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2940571040330867640, guid: 136b4ddc045d55b4d9f45ac1f8c7b84c, type: 3}
+    m_TargetAsset: {fileID: 2940571040330867640, guid: 136b4ddc045d55b4d9f45ac1f8c7b84c, type: 3}
+  - m_GUID: 52b5646d9546bd94f9bbc49b5bdb25ab
+    m_Address: 4047-PorticoBarryDobleCinta
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 1848738098572080745, guid: 52b5646d9546bd94f9bbc49b5bdb25ab, type: 3}
+    m_TargetAsset: {fileID: 1848738098572080745, guid: 52b5646d9546bd94f9bbc49b5bdb25ab, type: 3}
+  - m_GUID: 8308790467a0ab1499089a0b8d75da18
+    m_Address: 4068-+P%C3%B3rtico+Doble+Familiar
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4563319889679908041, guid: 8308790467a0ab1499089a0b8d75da18, type: 3}
+    m_TargetAsset: {fileID: 4563319889679908041, guid: 8308790467a0ab1499089a0b8d75da18, type: 3}
+  - m_GUID: da4b23271ff486d42a2914f053544d23
+    m_Address: 4069-Calesita+Trompo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 6333785552780668985, guid: da4b23271ff486d42a2914f053544d23, type: 3}
+    m_TargetAsset: {fileID: 6333785552780668985, guid: da4b23271ff486d42a2914f053544d23, type: 3}
+  - m_GUID: bbda55793b3043048855509caeb16d63
+    m_Address: 4072-CalesitaRotomoldeo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 8369796953284480931, guid: bbda55793b3043048855509caeb16d63, type: 3}
+    m_TargetAsset: {fileID: 8369796953284480931, guid: bbda55793b3043048855509caeb16d63, type: 3}
+  - m_GUID: a9268e92542081d48945bbd5843a68fd
+    m_Address: 4075-+Mangrullo+Chico+TaTeTi
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 5294083115999776044, guid: a9268e92542081d48945bbd5843a68fd, type: 3}
+    m_TargetAsset: {fileID: 5294083115999776044, guid: a9268e92542081d48945bbd5843a68fd, type: 3}
+  - m_GUID: e8bfefe36d23948478376a2a26f99f8a
+    m_Address: 4097-+Calesita+%C3%93rbita
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 7255394915559031806, guid: e8bfefe36d23948478376a2a26f99f8a, type: 3}
+    m_TargetAsset: {fileID: 7255394915559031806, guid: e8bfefe36d23948478376a2a26f99f8a, type: 3}
+  - m_GUID: e27d775e0a0929e4cbe0f921bf392906
+    m_Address: 8001-+RT+11
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 6460800377488959002, guid: e27d775e0a0929e4cbe0f921bf392906, type: 3}
+    m_TargetAsset: {fileID: 6460800377488959002, guid: e27d775e0a0929e4cbe0f921bf392906, type: 3}
+  - m_GUID: e7739eac4e7dab94ca1a40b69d196e2f
+    m_Address: 8010-+RT+16
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 3275754730111126163, guid: e7739eac4e7dab94ca1a40b69d196e2f, type: 3}
+    m_TargetAsset: {fileID: 3275754730111126163, guid: e7739eac4e7dab94ca1a40b69d196e2f, type: 3}
+  - m_GUID: 620b4eb5815805f42bea147385039de9
+    m_Address: 8015-+Torre+Acuatica+Triple
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 7191976105951203831, guid: 620b4eb5815805f42bea147385039de9, type: 3}
+    m_TargetAsset: {fileID: 7191976105951203831, guid: 620b4eb5815805f42bea147385039de9, type: 3}
+  - m_GUID: 1f043227d945ed44a8ef9190ed9a6ea6
+    m_Address: 8020-+RT+5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 5123243192517414999, guid: 1f043227d945ed44a8ef9190ed9a6ea6, type: 3}
+    m_TargetAsset: {fileID: 5123243192517414999, guid: 1f043227d945ed44a8ef9190ed9a6ea6, type: 3}
+  - m_GUID: a13c627d294613b44a6393a7b72b109e
+    m_Address: 8025-Hongo+Acuatico
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 5210039834462243374, guid: a13c627d294613b44a6393a7b72b109e, type: 3}
+    m_TargetAsset: {fileID: 5210039834462243374, guid: a13c627d294613b44a6393a7b72b109e, type: 3}
+  - m_GUID: 8973af5c842e8a144bc709e7f2a14d84
+    m_Address: 8026-+Mini+Racer+con+Estructura
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 5502143744133736306, guid: 8973af5c842e8a144bc709e7f2a14d84, type: 3}
+    m_TargetAsset: {fileID: 5502143744133736306, guid: 8973af5c842e8a144bc709e7f2a14d84, type: 3}
+  - m_GUID: 83bf043b0953c8948bcc5168b1329958
+    m_Address: 8027-Torre+Acuatica+Sextuple
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4258912226819014620, guid: 83bf043b0953c8948bcc5168b1329958, type: 3}
+    m_TargetAsset: {fileID: 4258912226819014620, guid: 83bf043b0953c8948bcc5168b1329958, type: 3}
+  - m_GUID: 98c17ac9810618846be9bebbe1e6d183
+    m_Address: 8030-Palmera+Aspersora
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4242730668744825877, guid: 98c17ac9810618846be9bebbe1e6d183, type: 3}
+    m_TargetAsset: {fileID: 4242730668744825877, guid: 98c17ac9810618846be9bebbe1e6d183, type: 3}
+  - m_GUID: 58681ec8272b0b3498ffdd6e79435b88
+    m_Address: 8045-+Torre+Triple+Magnum
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2858672709162489330, guid: 58681ec8272b0b3498ffdd6e79435b88, type: 3}
+    m_TargetAsset: {fileID: 2858672709162489330, guid: 58681ec8272b0b3498ffdd6e79435b88, type: 3}
+  - m_GUID: ee670a82d597b0d468aaa299c40bdfa1
+    m_Address: 8304-Mangrullo+Tematico
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 7886347221467212992, guid: ee670a82d597b0d468aaa299c40bdfa1, type: 3}
+    m_TargetAsset: {fileID: 7886347221467212992, guid: ee670a82d597b0d468aaa299c40bdfa1, type: 3}
+  - m_GUID: 7aae8d3d3b6da164e82303fcd001ca35
+    m_Address: 8306+-+Mangrullo+Islote
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 1085987949427168505, guid: 7aae8d3d3b6da164e82303fcd001ca35, type: 3}
+    m_TargetAsset: {fileID: 1085987949427168505, guid: 7aae8d3d3b6da164e82303fcd001ca35, type: 3}
+  - m_GUID: d38f837e1033bcb4fac5596277cebd7e
+    m_Address: 13008-Maquina+de+Pedales+con+Remo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 870556417809725004, guid: d38f837e1033bcb4fac5596277cebd7e, type: 3}
+    m_TargetAsset: {fileID: 870556417809725004, guid: d38f837e1033bcb4fac5596277cebd7e, type: 3}
+  - m_GUID: 5ed10b6a3bd1a214d9dfee00271160f9
+    m_Address: 13013-+Fortalecedor+de+Piernas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4187536071298231183, guid: 5ed10b6a3bd1a214d9dfee00271160f9, type: 3}
+    m_TargetAsset: {fileID: 4187536071298231183, guid: 5ed10b6a3bd1a214d9dfee00271160f9, type: 3}
+  - m_GUID: 44139e8617929cf4b9617e2e815b39d1
+    m_Address: 13025-Dorsalera+Simple
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 6256983894195537923, guid: 44139e8617929cf4b9617e2e815b39d1, type: 3}
+    m_TargetAsset: {fileID: 6256983894195537923, guid: 44139e8617929cf4b9617e2e815b39d1, type: 3}
+  - m_GUID: ec3f3940d0dad5a46997af965f71c213
+    m_Address: 14049-+Caseta+Tobog%C3%A1n+Rulo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 1961006706311181478, guid: ec3f3940d0dad5a46997af965f71c213, type: 3}
+    m_TargetAsset: {fileID: 1961006706311181478, guid: ec3f3940d0dad5a46997af965f71c213, type: 3}
+  - m_GUID: 9e8723ed0a7d5bb468306bf3f8634ae9
+    m_Address: 15041-ConjuntoLivingOvo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 7396887684967867975, guid: 9e8723ed0a7d5bb468306bf3f8634ae9, type: 3}
+    m_TargetAsset: {fileID: 7396887684967867975, guid: 9e8723ed0a7d5bb468306bf3f8634ae9, type: 3}
+  - m_GUID: 8de599956a91aa54aa50ace3aa829312
+    m_Address: 16030+-+Mangrullo+Selva
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 7135784906637053850, guid: 8de599956a91aa54aa50ace3aa829312, type: 3}
+    m_TargetAsset: {fileID: 7135784906637053850, guid: 8de599956a91aa54aa50ace3aa829312, type: 3}
+  - m_GUID: f55ca1d822624ba419aee399f157917e
+    m_Address: 16032+-+Selva+Una+Torre
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 681584965284278925, guid: f55ca1d822624ba419aee399f157917e, type: 3}
+    m_TargetAsset: {fileID: 681584965284278925, guid: f55ca1d822624ba419aee399f157917e, type: 3}
+  - m_GUID: 8c9587c68f39ef944875e7b742c098b1
+    m_Address: 16035-+Mangrullo+Selva+Gigante
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 9150769610971745952, guid: 8c9587c68f39ef944875e7b742c098b1, type: 3}
+    m_TargetAsset: {fileID: 9150769610971745952, guid: 8c9587c68f39ef944875e7b742c098b1, type: 3}
+  - m_GUID: d402e9b429bd761488043f14cfaa0188
+    m_Address: 16040+-+Enrique+V+Imperial+Gigante
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 5030712650586881436, guid: d402e9b429bd761488043f14cfaa0188, type: 3}
+    m_TargetAsset: {fileID: 5030712650586881436, guid: d402e9b429bd761488043f14cfaa0188, type: 3}
+  - m_GUID: 089aa3d466f82ea46bc667c5faf5dbfd
+    m_Address: 16041+-+Enrique+V+Imperial+Mediano
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 1387554335008259170, guid: 089aa3d466f82ea46bc667c5faf5dbfd, type: 3}
+    m_TargetAsset: {fileID: 1387554335008259170, guid: 089aa3d466f82ea46bc667c5faf5dbfd, type: 3}
+  - m_GUID: f00d54e7744cdc444bf854516d0ddc2b
+    m_Address: 16042+-+Enrique+V+Imperial+Chico
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 6772819272323261952, guid: f00d54e7744cdc444bf854516d0ddc2b, type: 3}
+    m_TargetAsset: {fileID: 6772819272323261952, guid: f00d54e7744cdc444bf854516d0ddc2b, type: 3}
+  - m_GUID: f3762d937a61dc8419d1fdcc4c179001
+    m_Address: 16044-+Hadas+Una+Torre+Jardin
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 8230283716210196380, guid: f3762d937a61dc8419d1fdcc4c179001, type: 3}
+    m_TargetAsset: {fileID: 8230283716210196380, guid: f3762d937a61dc8419d1fdcc4c179001, type: 3}
+  - m_GUID: ea0e6697fc382f24da0e29d921bf3c4c
+    m_Address: 16051+-+Aldea+2+Torres
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4838023889256788649, guid: ea0e6697fc382f24da0e29d921bf3c4c, type: 3}
+    m_TargetAsset: {fileID: 4838023889256788649, guid: ea0e6697fc382f24da0e29d921bf3c4c, type: 3}
+  - m_GUID: f687516c8b9a58a4da8e0f91d2a4b12f
+    m_Address: 16052+-+Castillo+de+Hadas+Gigante
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 1281736065217259632, guid: f687516c8b9a58a4da8e0f91d2a4b12f, type: 3}
+    m_TargetAsset: {fileID: 1281736065217259632, guid: f687516c8b9a58a4da8e0f91d2a4b12f, type: 3}
+  - m_GUID: 14852003658a46d46b8004685dae0de2
+    m_Address: 16092-Mangrullo+Muro+C
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 8176908610993154352, guid: 14852003658a46d46b8004685dae0de2, type: 3}
+    m_TargetAsset: {fileID: 8176908610993154352, guid: 14852003658a46d46b8004685dae0de2, type: 3}
+  - m_GUID: 05c418dfab6bbd4498874a18b2c789ec
+    m_Address: 16093-+Mangrullo+Muro+D
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 5146303480741446808, guid: 05c418dfab6bbd4498874a18b2c789ec, type: 3}
+    m_TargetAsset: {fileID: 5146303480741446808, guid: 05c418dfab6bbd4498874a18b2c789ec, type: 3}
+  - m_GUID: d483349fd1e9b794c8c36d3669f6ebd1
+    m_Address: 16101-RefugioDelBosqueChico
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 5067775870733143098, guid: d483349fd1e9b794c8c36d3669f6ebd1, type: 3}
+    m_TargetAsset: {fileID: 5067775870733143098, guid: d483349fd1e9b794c8c36d3669f6ebd1, type: 3}
+  - m_GUID: 98c1ff319f6063b43b4d633cbd574046
+    m_Address: 16102-Refugio+Del+Bosque+Mediano
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 7075645606389547609, guid: 98c1ff319f6063b43b4d633cbd574046, type: 3}
+    m_TargetAsset: {fileID: 7075645606389547609, guid: 98c1ff319f6063b43b4d633cbd574046, type: 3}
+  - m_GUID: 86ce2a3a3f3dcb0428f3b6a8fd3fa449
+    m_Address: 16103-Refugio+Del+Bosque+Grande
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 6035157788414261299, guid: 86ce2a3a3f3dcb0428f3b6a8fd3fa449, type: 3}
+    m_TargetAsset: {fileID: 6035157788414261299, guid: 86ce2a3a3f3dcb0428f3b6a8fd3fa449, type: 3}
+  - m_GUID: 9e15780a3617cb44988e9934d08b6ba3
+    m_Address: 16104-Refugio+del+Bosque+Torre
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 8216713157077619068, guid: 9e15780a3617cb44988e9934d08b6ba3, type: 3}
+    m_TargetAsset: {fileID: 8216713157077619068, guid: 9e15780a3617cb44988e9934d08b6ba3, type: 3}
+  - m_GUID: 3193e8b73fbe29546b14ed4414dec534
+    m_Address: 17001-+Bee
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 7822040286799238702, guid: 3193e8b73fbe29546b14ed4414dec534, type: 3}
+    m_TargetAsset: {fileID: 7822040286799238702, guid: 3193e8b73fbe29546b14ed4414dec534, type: 3}
+  - m_GUID: ab24461afb9ff4744aeccc21d81bb027
+    m_Address: 17004-Espiral
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2593058142098604759, guid: ab24461afb9ff4744aeccc21d81bb027, type: 3}
+    m_TargetAsset: {fileID: 2593058142098604759, guid: ab24461afb9ff4744aeccc21d81bb027, type: 3}
+  - m_GUID: 0edc83c45b0cb0f42b3a4c16d58ade61
+    m_Address: 17005-+Moon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 7013924361827029654, guid: 0edc83c45b0cb0f42b3a4c16d58ade61, type: 3}
+    m_TargetAsset: {fileID: 7013924361827029654, guid: 0edc83c45b0cb0f42b3a4c16d58ade61, type: 3}
+  - m_GUID: 966890756c9e3a64cbbd679146b621a6
+    m_Address: 17008-+Pir%C3%A1mide+Tetra
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 364518730479746119, guid: 966890756c9e3a64cbbd679146b621a6, type: 3}
+    m_TargetAsset: {fileID: 364518730479746119, guid: 966890756c9e3a64cbbd679146b621a6, type: 3}
+  - m_GUID: 263a9006b8cc4f945975dbc1a5f18d7d
+    m_Address: 17009-+Treep+Chico
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 9060729177677518786, guid: 263a9006b8cc4f945975dbc1a5f18d7d, type: 3}
+    m_TargetAsset: {fileID: 9060729177677518786, guid: 263a9006b8cc4f945975dbc1a5f18d7d, type: 3}
+  - m_GUID: cb4a8a52661147e43a390df222cdb37c
+    m_Address: 17012-+Guui+Mini
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 1684811899200749754, guid: cb4a8a52661147e43a390df222cdb37c, type: 3}
+    m_TargetAsset: {fileID: 1684811899200749754, guid: cb4a8a52661147e43a390df222cdb37c, type: 3}
+  - m_GUID: cbbcd005bcaec07468af3f5dad25824f
+    m_Address: 17020-+Domo+Escalador
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2960482680118971667, guid: cbbcd005bcaec07468af3f5dad25824f, type: 3}
+    m_TargetAsset: {fileID: 2960482680118971667, guid: cbbcd005bcaec07468af3f5dad25824f, type: 3}
+  - m_GUID: a4b134144b8e058448f40ffbf0bd4506
+    m_Address: 17104-+Posta+4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 889213289243685182, guid: a4b134144b8e058448f40ffbf0bd4506, type: 3}
+    m_TargetAsset: {fileID: 889213289243685182, guid: a4b134144b8e058448f40ffbf0bd4506, type: 3}
+  - m_GUID: 61f4bba688741d24bb5c553dd3d44ffb
+    m_Address: 18000-+Bicicleta+de+Brazos
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4707962387552828659, guid: 61f4bba688741d24bb5c553dd3d44ffb, type: 3}
+    m_TargetAsset: {fileID: 4707962387552828659, guid: 61f4bba688741d24bb5c553dd3d44ffb, type: 3}
+  - m_GUID: 780d8077ac9fff94c94f42d4ed862c2c
+    m_Address: 18001-+Bicicleta+Reclinada
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2865737154919108521, guid: 780d8077ac9fff94c94f42d4ed862c2c, type: 3}
+    m_TargetAsset: {fileID: 2865737154919108521, guid: 780d8077ac9fff94c94f42d4ed862c2c, type: 3}
+  - m_GUID: 52f1bf0a35f3b954ba8d5eae1bef7bb4
+    m_Address: 18002-Bicicleta+de+Spinning
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 6286051735389613774, guid: 52f1bf0a35f3b954ba8d5eae1bef7bb4, type: 3}
+    m_TargetAsset: {fileID: 6286051735389613774, guid: 52f1bf0a35f3b954ba8d5eae1bef7bb4, type: 3}
+  - m_GUID: d591517a5d78f764e805ba1a7a220895
+    m_Address: 19002-+Circuito+Calistenia
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 3283212159675443708, guid: d591517a5d78f764e805ba1a7a220895, type: 3}
+    m_TargetAsset: {fileID: 3283212159675443708, guid: d591517a5d78f764e805ba1a7a220895, type: 3}
+  - m_GUID: b38668344bf29ab429a9e996bf19dfc3
+    m_Address: 20014+-+Cami%C3%B3n+Bomberos
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 1453744595346682821, guid: b38668344bf29ab429a9e996bf19dfc3, type: 3}
+    m_TargetAsset: {fileID: 1453744595346682821, guid: b38668344bf29ab429a9e996bf19dfc3, type: 3}
+  - m_GUID: 5c21f1c771c8a454cb3c44ccfe64b437
+    m_Address: 20026-+Barco+Gale%C3%B3n+del+Paran%C3%A1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 7018674653805947130, guid: 5c21f1c771c8a454cb3c44ccfe64b437, type: 3}
+    m_TargetAsset: {fileID: 7018674653805947130, guid: 5c21f1c771c8a454cb3c44ccfe64b437, type: 3}
+  - m_GUID: 902ae544f1d7d744fa95af209034e6d4
+    m_Address: 20055-+Estaci%C3%B3n+de+Polic%C3%ADa
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 9024725267409811799, guid: 902ae544f1d7d744fa95af209034e6d4, type: 3}
+    m_TargetAsset: {fileID: 9024725267409811799, guid: 902ae544f1d7d744fa95af209034e6d4, type: 3}
+  - m_GUID: 89b4c1b1af2d1284ea26398dbe2bc307
+    m_Address: 20056-+Cuartel+De+Bomberos
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 3375647777127797277, guid: 89b4c1b1af2d1284ea26398dbe2bc307, type: 3}
+    m_TargetAsset: {fileID: 3375647777127797277, guid: 89b4c1b1af2d1284ea26398dbe2bc307, type: 3}
+  - m_GUID: e56ff5901f4ee0047a2ea48530a1c1d3
+    m_Address: 20057-+Hospital
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 3691096736716003049, guid: e56ff5901f4ee0047a2ea48530a1c1d3, type: 3}
+    m_TargetAsset: {fileID: 3691096736716003049, guid: e56ff5901f4ee0047a2ea48530a1c1d3, type: 3}
+  - m_GUID: c84be99443c0006459e8712d0cb7164b
+    m_Address: 20083+-+Mangrullo+Artigas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 1675478062313861086, guid: c84be99443c0006459e8712d0cb7164b, type: 3}
+    m_TargetAsset: {fileID: 1675478062313861086, guid: c84be99443c0006459e8712d0cb7164b, type: 3}
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 59147debf59a6c247a9e4d7ee17801f1, type: 2}
   m_SchemaSet:
